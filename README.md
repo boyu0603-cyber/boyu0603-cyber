@@ -2,80 +2,121 @@
 
 ## Profile
 
-I am a psychology-trained entrepreneur, digital product operator, and AI systems builder preparing for the **SUTD MSc in Design and Artificial Intelligence for Enterprise**.
+I am a psychology-trained entrepreneur, digital product operator, and AI systems builder preparing for the SUTD MSc in Design and Artificial Intelligence for Enterprise.
 
-My work connects psychology, user behavior, entrepreneurship, digital product operations, financial market decision-making, and AI-assisted workflow prototyping. I focus on designing AI-enabled systems that support human judgment, structure complex information, and improve advisory or operational decisions.
+My work focuses on AI-assisted decision support, enterprise AI workflow design, human-in-the-loop systems, knowledge governance, and public-safe AI product prototyping.
+
+## Portfolio Theme
+
+This portfolio explores how AI can support complex human decisions by structuring information, preserving uncertainty, creating review workflows, and keeping humans responsible for final judgment.
+
+The projects cover four connected domains:
+
+- Education advisory workflow
+- Knowledge management and methodology routing
+- Market intelligence and information-to-decision workflow
+- Risk review and quality audit workflow
 
 ## What AI OPC Means
 
-In this portfolio, **AI OPC** refers to **AI-enabled Operational Productivity Consulting**: using AI workflows, structured knowledge systems, and human-in-the-loop processes to improve advisory and operational decisions.
-
-## Current Focus
-
-- AI-assisted decision systems
-
-- Enterprise AI workflow design
-
-- Human-AI interaction and decision support
-
-- Knowledge management systems
-
-- AI-enabled education consulting
-
-- Crypto market intelligence and risk review workflows
+In this portfolio, AI OPC refers to AI-enabled Operational Productivity Consulting: using AI workflows, structured knowledge systems, and human-in-the-loop processes to improve advisory, operational, and decision-support workflows.
 
 ## Selected Portfolio Projects
 
-### [AI OPC Gaokao Assistant](https://github.com/boyu0603-cyber/ai-opc-gaokao-assistant)
+### 1. AI OPC Gaokao Assistant
 
-A public-safe portfolio case study for an AI-assisted Chinese Gaokao application planning system, focused on human-in-the-loop decision support, responsible AI boundaries, and enterprise-style advisory workflow design.
+[Repository](https://github.com/boyu0603-cyber/ai-opc-gaokao-assistant)
 
-### Super Brain 2.0 — Coming Soon
+AI-assisted education advisory workflow and human-in-the-loop decision-support case.
 
-A public-safe portfolio case for an AI-assisted knowledge and decision-management system focused on methodology routing, project memory, workflow documentation, and future enterprise knowledge management.
+A public-safe portfolio case for an AI-assisted Chinese Gaokao application planning system. It focuses on intake structuring, preference clarification, risk explanation, advisor review, and responsible AI boundaries.
 
-### Crypto Radar — Coming Soon
+Portfolio relevance:
 
-A public-safe portfolio case for a crypto market intelligence radar that turns news, events, policy shifts, and market narratives into structured review items.
+- AI-assisted advisory workflow
+- Human-in-the-loop review
+- Responsible AI in education decision support
+- Product and service workflow design
 
-### AI Quant Review System — Coming Soon
+### 2. Super Brain 2.0
 
-A public-safe portfolio case for an AI-assisted crypto trading review and human-in-the-loop decision-support workflow.
+[Repository](https://github.com/boyu0603-cyber/super-brain-2)
+
+AI-assisted knowledge system, methodology router, and enterprise knowledge workflow case.
+
+A public-safe portfolio case for a personal AI-assisted knowledge and decision-management system. It demonstrates methodology routing, project memory, decision records, execution reports, knowledge governance, and future enterprise knowledge-management relevance.
+
+Portfolio relevance:
+
+- Knowledge architecture
+- Methodology routing
+- Workflow governance
+- Decision traceability
+- Enterprise knowledge management
+
+### 3. Crypto Radar
+
+[Repository](https://github.com/boyu0603-cyber/crypto-radar)
+
+AI-assisted market intelligence and information-to-decision workflow case.
+
+A public-safe portfolio case for monitoring market-relevant public information, structuring noisy signals into review items, preserving uncertainty, and supporting human judgment in fast-moving information environments.
+
+Portfolio relevance:
+
+- Information-to-decision pipeline
+- Market intelligence workflow
+- AI-assisted structuring
+- Uncertainty-aware review
+- Human-in-the-loop decision support
+
+### 4. AI Quant Review System
+
+[Repository](https://github.com/boyu0603-cyber/ai-quant-review-system)
+
+AI-assisted candidate review, risk gate, and quality audit workflow case.
+
+A public-safe portfolio case for structuring candidate opportunity review, risk gates, decision notes, post-event quality audit, and knowledge write-back. It is not a trading signal bot, automated trading system, financial advice product, or profitability claim.
+
+Portfolio relevance:
+
+- Risk-aware decision support
+- Candidate review workflow
+- Human review gates
+- Quality audit loop
+- Responsible AI boundaries
 
 ## Background
 
 - Bachelor of Social Sciences in Psychology, University of Macau
-
 - Former COO of a digital asset e-commerce platform
-
-- Independent trader and crypto market researcher
-
+- Independent market researcher and AI-assisted workflow builder
 - Founder/co-founder experience across digital assets, psychology education, consumer services, and AI-enabled workflows
 
 ## Tools and Methods
 
 - AI-assisted prototyping
-
 - Product architecture
-
 - Workflow design
-
+- Human-AI interaction
 - User behavior analysis
-
-- SPSS / Excel-based analysis
-
-- LLM-based research and documentation workflows
-
+- Knowledge management
+- Decision-support design
 - GitHub-based project documentation
+- LLM-assisted research and documentation workflows
 
 ## Relevance to SUTD MSc DAI-E
 
-My portfolio focuses on design-led AI systems rather than model-first demos. The projects connect user decision journeys, AI-assisted workflows, human-in-the-loop review, responsible AI boundaries, and enterprise-style deployment thinking.
+This portfolio is design-led rather than model-first. It focuses on human decision journeys, AI-assisted workflow design, responsible AI boundaries, knowledge governance, review and audit loops, and enterprise-style AI deployment thinking.
 
-I am especially interested in how AI can support real decision contexts: education consulting, knowledge management, market intelligence, operational review, and advisory workflows where human judgment remains necessary.
+I hope to use SUTD DAI-E to strengthen my ability to transform early-stage AI workflows into robust, usable, responsible, and enterprise-relevant systems.
 
-This direction aligns with SUTD’s MSc in Design and Artificial Intelligence for Enterprise, where I hope to strengthen my ability to transform early-stage AI workflows into robust, responsible, and industry-relevant systems.
+## Public-Safe Portfolio Boundary
+
+These repositories are public-safe portfolio cases. They do not expose private notes, client data, real student data, trading account information, proprietary strategy rules, API keys, tokens, private prompts, or commercial confidential materials.
+
+Some examples are synthetic and used only to demonstrate workflow design.
 
 ## Career Direction
 
-My long-term goal is to become an enterprise AI builder and AI transformation consultant, focusing on AI systems that improve decision-making, operational efficiency, and knowledge workflows.
+My long-term goal is to become an enterprise AI workflow designer and AI transformation consultant, building AI systems that improve decision-making, operational efficiency, knowledge workflows, and human-AI collaboration.
