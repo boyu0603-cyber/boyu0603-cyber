@@ -1,82 +1,66 @@
 # QIAN Boyu (Bowie)
 
-Psychology-trained entrepreneur, digital product operator, and AI systems builder.
+## Profile
 
-I am currently building AI-enabled systems across trading decision support, market intelligence, knowledge management, and enterprise workflow automation. My background combines psychology, user behavior research, digital asset operations, financial market practice, and AI-assisted product prototyping.
+I am a psychology-trained entrepreneur, digital product operator, and AI systems builder preparing for the **SUTD MSc in Design and Artificial Intelligence for Enterprise**.
+
+My work connects psychology, user behavior, entrepreneurship, digital product operations, financial market decision-making, and AI-assisted workflow prototyping. I focus on designing AI-enabled systems that support human judgment, structure complex information, and improve advisory or operational decisions.
+
+## What AI OPC Means
+
+In this portfolio, AI OPC refers to AI-enabled Operational Productivity Consulting: using AI workflows, structured knowledge systems, and human-in-the-loop processes to improve advisory and operational decisions.
 
 ## Current Focus
 
-* AI-assisted decision systems
-* Enterprise AI workflow design
-* Human-AI interaction and decision support
-* Knowledge management systems
-* AI-enabled education consulting
-* Crypto market intelligence and risk review workflows
+- AI-assisted decision systems
+- Enterprise AI workflow design
+- Human-AI interaction and decision support
+- Knowledge management systems
+- AI-enabled education consulting
+- Crypto market intelligence and risk review workflows
 
-## Selected Projects
+## Selected Portfolio Projects
 
-### AI-Assisted Quantitative Trading Review System
+### [AI OPC Gaokao Assistant](https://github.com/boyu0603-cyber/ai-opc-gaokao-assistant)
 
-A decision-support workflow for cryptocurrency market review, candidate discovery, manual signal evaluation, Telegram-based notification, and risk-aware trading review.
+A public-safe portfolio case study for an AI-assisted Chinese Gaokao application planning system, focused on human-in-the-loop decision support, responsible AI boundaries, and enterprise-style advisory workflow design.
 
-Focus areas:
+### Super Brain 2.0 — Coming Soon
 
-* Human-AI decision support
-* Market signal review
-* Risk gate design
-* Workflow automation
-* AI-assisted system prototyping
+A public-safe portfolio case for an AI-assisted knowledge and decision-management system focused on methodology routing, project memory, workflow documentation, and future enterprise knowledge management.
 
-### Crypto Radar
+### Crypto Radar — Coming Soon
 
-A market intelligence radar designed to track news, policy changes, events, narratives, and potential market-moving signals before they appear clearly on price charts.
+A public-safe portfolio case for a crypto market intelligence radar that turns news, events, policy shifts, and market narratives into structured review items.
 
-Focus areas:
+### AI Quant Review System — Coming Soon
 
-* Information-to-decision workflow
-* Event-driven market analysis
-* Narrative monitoring
-* Crypto market intelligence
-
-### Super Brain 2.0
-
-A personal knowledge and decision-management system for organizing projects, methodologies, execution reports, workflows, and AI-assisted reasoning.
-
-Focus areas:
-
-* Knowledge architecture
-* AI-assisted reasoning
-* Workflow documentation
-* Methodology routing
-* Future enterprise knowledge system design
-
-### AI OPC / Enterprise AI Workflow Project
-
-A team-based initiative focused on AI-enabled operational productivity and enterprise AI workflow consulting. Current work includes an AI assistant for China Gaokao application planning, risk assessment, and report generation.
-
-Focus areas:
-
-* AI product design
-* User journey design
-* Enterprise workflow automation
-* AI-assisted consultation delivery
+A public-safe portfolio case for an AI-assisted crypto trading review and human-in-the-loop decision-support workflow.
 
 ## Background
 
-* Bachelor of Social Sciences in Psychology, University of Macau
-* Former COO of a digital asset e-commerce platform
-* Independent trader and crypto market researcher
-* Founder / co-founder of multiple early-stage projects in digital assets, psychology education, consumer services, and AI-enabled workflows
+- Bachelor of Social Sciences in Psychology, University of Macau
+- Former COO of a digital asset e-commerce platform
+- Independent trader and crypto market researcher
+- Founder/co-founder experience across digital assets, psychology education, consumer services, and AI-enabled workflows
 
 ## Tools and Methods
 
-* AI-assisted prototyping
-* Product architecture
-* Workflow design
-* User behavior analysis
-* SPSS / Excel-based analysis
-* LLM-based research and documentation workflows
-* GitHub-based project documentation
+- AI-assisted prototyping
+- Product architecture
+- Workflow design
+- User behavior analysis
+- SPSS / Excel-based analysis
+- LLM-based research and documentation workflows
+- GitHub-based project documentation
+
+## Relevance to SUTD MSc DAI-E
+
+My portfolio focuses on design-led AI systems rather than model-first demos. The projects connect user decision journeys, AI-assisted workflows, human-in-the-loop review, responsible AI boundaries, and enterprise-style deployment thinking.
+
+I am especially interested in how AI can support real decision contexts: education consulting, knowledge management, market intelligence, operational review, and advisory workflows where human judgment remains necessary.
+
+This direction aligns with SUTD’s MSc in Design and Artificial Intelligence for Enterprise, where I hope to strengthen my ability to transform early-stage AI workflows into robust, responsible, and industry-relevant systems.
 
 ## Career Direction
 
